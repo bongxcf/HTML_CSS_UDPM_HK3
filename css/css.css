@@ -372,3 +372,7 @@ footer {
     width: 91%;
     height: 15%;
 }
+.text-center ul{
+    text-align: left;
+    font-size: 14px;
+}
